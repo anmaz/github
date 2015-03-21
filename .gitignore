@@ -1,0 +1,5 @@
+bin
+*.suo
+obj
+ValorNaV_deploy
+*.dll
